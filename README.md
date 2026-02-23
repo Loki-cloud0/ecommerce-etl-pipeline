@@ -185,15 +185,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 - **Materialization**: Staging as views, Mart as tables
 - **Scalability**: Tested up to 100M+ records
 
-## License
-
-[Your License Here]
-
-## Support
-
-For questions or issues, please open an issue in this repository.
-
----
-
 **Last Updated**: 2026-02-23 12:44:39  
 **Team**: Data Engineering
